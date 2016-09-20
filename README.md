@@ -1,1 +1,1 @@
->line."Starting project."
+"Starting project".length
